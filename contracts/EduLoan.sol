@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 /// @title EduLoan - Decentralized Student Loan System
-/// @author Rani Setiawati
+/// @author Rani S Duan
 /// @notice Sistem pinjaman pendidikan terdesentralisasi di Mantle Network
 contract EduLoan {
 
@@ -180,3 +180,4 @@ contract EduLoan {
         payable(admin).transfer(_amount);
     }
 }
+
