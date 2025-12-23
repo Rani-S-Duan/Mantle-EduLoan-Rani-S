@@ -1,7 +1,7 @@
 # EduLoan - Mantle Co-Learning Camp Challenge
 
 ## Author
-- Nama: [Rani Setiawati]
+- Nama: [Rani S]
 - GitHub: [Rani S Duan]
 - Wallet: [0x00094df3F019C1a88Ef1d3732c693153c476BF7F]
 
